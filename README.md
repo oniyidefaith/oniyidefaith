@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer
 --------------------
 
-Hello, this is Fatih Oniyide I'm a passionate Fullstack Developer living in Ibadan, Nigeria,I'm an Intern at Hamzeal Digitals Nigeria. I've made a lot of projects with multiple web technologies. I love being part of a solution driven tech community . I love to teach others about web development. I love open source development and I build things on my GitHub profile (here). I love JavaScript and Python (Django and Flask).
+Hello, this is Fatih Oniyide I'm a passionate Fullstack Developer living in Ibadan, Nigeria,I'm an Intern at Hamzeal Digitals Nigeria. I've made a lot of projects with multiple web technologies. I love being part of a solution driven tech community . I love to teach others about web development. I love open source development and I build things on my GitHub profile (here). I love JavaScript and Python (Django).
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [oniyidefaith30@gmail.com](mailto:oniyidefaith30@gmail.com)
